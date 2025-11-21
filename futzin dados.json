@@ -1,0 +1,443 @@
+[
+    {
+        "nome": "Palmeiras",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "A Sociedade Esportiva Palmeiras é um clube poliesportivo brasileiro da cidade de São Paulo, capital do estado homônimo. Foi fundado em 26 de agosto de 1914 e suas cores, presentes no escudo e bandeira oficial, são o verde e branco.",
+        "ano": "1914",
+        "link": "https://www.palmeiras.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg"
+    },
+    {
+        "nome": "Corinthians",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Sport Club Corinthians Paulista é um clube poliesportivo brasileiro da cidade de São Paulo. Foi fundado em 1 de setembro de 1910 por um grupo de operários do bairro Bom Retiro. Suas cores tradicionais são o branco e o preto.",
+        "ano": "1910",
+        "link": "https://www.corinthians.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/5/5a/Sport_Club_Corinthians_Paulista_crest.svg"
+    },
+    {
+        "nome": "Santos",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Santos FC é um dos clubes mais tradicionais do Brasil, fundado em 1912 e famoso por revelar craques como Pelé e Neymar.",
+        "ano": "1912",
+        "link": "https://www.santosfc.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santos_logo.svg"
+    },
+    {
+        "nome": "São Paulo",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O São Paulo Futebol Clube é um dos clubes mais bem-sucedidos do Brasil, com sede na cidade de São Paulo. É um dos únicos clubes que nunca foram rebaixados para a segunda divisão do Campeonato Brasileiro.",
+        "ano": "1930",
+        "link": "https://www.saopaulofc.net/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/sao-paulo-1.svg"
+    },
+    {
+        "nome": "Flamengo",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Clube de Regatas do Flamengo, com sede no Rio de Janeiro, é conhecido por ter a maior torcida do Brasil e uma rica história de conquistas no futebol.",
+        "ano": "1895",
+        "link": "https://www.flamengo.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg"
+    },
+    {
+        "nome": "Vasco da Gama",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Club de Regatas Vasco da Gama, do Rio de Janeiro, tem uma história marcante de luta contra o racismo no futebol brasileiro e importantes títulos nacionais e internacionais.",
+        "ano": "1898",
+        "link": "https://vasco.com.br/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/vasco-da-gama-rj.svg"
+    },
+    {
+        "nome": "Fluminense",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Fluminense Football Club é um clube poliesportivo e cultural sediado no bairro de Laranjeiras, no Rio de Janeiro, sendo um dos quatro grandes do estado.",
+        "ano": "1902",
+        "link": "https://www.fluminense.com.br/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/fluminense.svg"
+    },
+    {
+        "nome": "Botafogo",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Botafogo de Futebol e Regatas é um clube brasileiro do Rio de Janeiro, conhecido pela sua estrela solitária no escudo e por ter cedido inúmeros jogadores para a Seleção Brasileira.",
+        "ano": "1904",
+        "link": "https://www.botafogo.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg"
+    },
+    {
+        "nome": "Grêmio",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Grêmio Foot-Ball Porto Alegrense é um dos maiores clubes do Rio Grande do Sul, conhecido por sua torcida fanática e por suas conquistas na Copa Libertadores.",
+        "ano": "1903",
+        "link": "https://gremio.net/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/f/f1/Gremio.svg"
+    },
+    {
+        "nome": "Internacional",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Sport Club Internacional, de Porto Alegre, é um dos clubes mais vitoriosos do século XXI, com um título mundial da FIFA e duas Libertadores.",
+        "ano": "1909",
+        "link": "https://internacional.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg"
+    },
+    {
+        "nome": "Atlético Mineiro",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Clube Atlético Mineiro, popularmente conhecido como Galo, é um dos clubes mais tradicionais de Minas Gerais, com uma torcida apaixonada e o primeiro campeão brasileiro.",
+        "ano": "1908",
+        "link": "https://atletico.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/500px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png"
+    },
+    {
+        "nome": "Cruzeiro",
+        "pais": "Brasil",
+        "liga": "Brasileirão Série A",
+        "descriçao": "O Cruzeiro Esporte Clube, de Belo Horizonte, é um dos clubes mais vitoriosos de Minas Gerais, conhecido como 'La Bestia Negra' por suas vitórias em competições sul-americanas.",
+        "ano": "1921",
+        "link": "https://cruzeiro.com.br/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/316px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png"
+    },
+    {
+        "nome": "Real Madrid",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "Real Madrid Club de Fútbol, com sede em Madrid, é um dos clubes mais bem-sucedidos do mundo, famoso por suas múltiplas conquistas da UEFA Champions League.",
+        "ano": "1902",
+        "link": "https://www.realmadrid.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+    },
+    {
+        "nome": "FC Barcelona",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "O Futbol Club Barcelona, conhecido como Barça, é um clube da Catalunha, Espanha, famoso por seu estilo de jogo 'tiki-taka' e por ter revelado craques como Lionel Messi.",
+        "ano": "1899",
+        "link": "https://www.fcbarcelona.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+    },
+    {
+        "nome": "Sevilla",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "O Sevilla Fútbol Club é um clube de futebol espanhol, da cidade de Sevilha. É o clube mais vitorioso na história da UEFA Europa League.",
+        "ano": "1890",
+        "link": "https://sevillafc.es/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png"
+    },
+    {
+        "nome": "Valencia",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "O Valencia Club de Fútbol é um clube de futebol da cidade de Valência, Espanha. É um dos clubes mais bem sucedidos e populares do futebol espanhol.",
+        "ano": "1919",
+        "link": "https://www.valenciacf.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png"
+    },
+    {
+        "nome": "Real Sociedad",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "A Real Sociedad de Fútbol é um clube de futebol espanhol da cidade de San Sebastián, no País Basco. Conhecido por sua forte política de formação de jogadores.",
+        "ano": "1909",
+        "link": "https://www.realsociedad.eus/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png"
+    },
+    {
+        "nome": "Athletic Bilbao",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "O Athletic Club, comumente conhecido como Athletic Bilbao, é um clube de futebol profissional sediado em Bilbao, no País Basco. É famoso por sua política de contratar apenas jogadores bascos.",
+        "ano": "1898",
+        "link": "https://www.athletic-club.eus/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png"
+    },
+    {
+        "nome": "Real Betis",
+        "pais": "Espanha",
+        "liga": "La Liga",
+        "descriçao": "O Real Betis Balompié é um clube de futebol espanhol da cidade de Sevilha. O clube tem uma rivalidade histórica com o Sevilla FC.",
+        "ano": "1907",
+        "link": "https://www.realbetisbalompie.es/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png"
+    },
+    {
+        "nome": "Bayern de Munique",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O FC Bayern München é o clube de maior sucesso na história do futebol alemão, com sede em Munique, Baviera. É uma potência constante na Champions League.",
+        "ano": "1900",
+        "link": "https://fcbayern.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg"
+    },
+    {
+        "nome": "Borussia Dortmund",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O Borussia Dortmund é um clube alemão famoso por sua apaixonada torcida, a 'Muralha Amarela', e por desenvolver jovens talentos.",
+        "ano": "1909",
+        "link": "https://www.bvb.de/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
+    },
+    {
+        "nome": "RB Leipzig",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O RB Leipzig é um clube de futebol alemão sediado em Leipzig, Saxônia. O clube rapidamente ascendeu às principais divisões do futebol alemão.",
+        "ano": "2009",
+        "link": "https://rbleipzig.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/1200px-RB_Leipzig_2014_logo.svg.png"
+    },
+    {
+        "nome": "Bayer Leverkusen",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O Bayer 04 Leverkusen Fußball GmbH, também conhecido como Bayer Leverkusen, é um clube de futebol alemão sediado em Leverkusen, Renânia do Norte-Vestfália.",
+        "ano": "1904",
+        "link": "https://www.bayer04.de/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png"
+    },
+    {
+        "nome": "Borussia Mönchengladbach",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O Borussia Mönchengladbach é um clube de futebol alemão sediado em Mönchengladbach, Renânia do Norte-Vestfália. Teve grande sucesso nas décadas de 1970.",
+        "ano": "1900",
+        "link": "https://www.borussia.de/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1200px-Borussia_M%C3%B6nchengladbach_logo.svg.png"
+    },
+    {
+        "nome": "VfB Stuttgart",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O VfB Stuttgart é um clube de futebol alemão sediado em Stuttgart, Baden-Württemberg. O clube já venceu o campeonato alemão cinco vezes.",
+        "ano": "1893",
+        "link": "https://www.vfb.de/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png"
+    },
+    {
+        "nome": "SC Freiburg",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O SC Freiburg é um clube de futebol alemão sediado em Freiburg im Breisgau, Baden-Württemberg. É conhecido por sua forte base de torcedores e estabilidade.",
+        "ano": "1904",
+        "link": "https://www.scfreiburg.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/1200px-SC_Freiburg_logo.svg.png"
+    },
+    {
+        "nome": "Union Berlin",
+        "pais": "Alemanha",
+        "liga": "Bundesliga",
+        "descriçao": "O 1. FC Union Berlin é um clube de futebol profissional alemão em Köpenick, Berlim. O clube tornou-se conhecido por sua base de fãs distinta e apaixonada.",
+        "ano": "1966",
+        "link": "https://www.fc-union-berlin.de/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png"
+    },
+    {
+        "nome": "Manchester United",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Manchester United Football Club, sediado em Old Trafford, é um dos clubes mais populares e vitoriosos da Inglaterra, com uma rica história de sucesso nacional e europeu.",
+        "ano": "1878",
+        "link": "https://www.manutd.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+    },
+    {
+        "nome": "Liverpool",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Liverpool Football Club é um clube de Merseyside, Inglaterra, famoso por sua apaixonada torcida, o hino 'You'll Never Walk Alone' e suas 6 conquistas da Champions League.",
+        "ano": "1892",
+        "link": "https://www.liverpoolfc.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+    },
+    {
+        "nome": "Manchester City",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Manchester City Football Club emergiu como uma das principais potências do futebol inglês e europeu, conhecido por seu estilo de jogo ofensivo.",
+        "ano": "1880",
+        "link": "https://www.mancity.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+    },
+    {
+        "nome": "Chelsea",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Chelsea Football Club, com sede em Londres, é um dos clubes mais bem-sucedidos da Inglaterra no século 21, com duas conquistas da Champions League.",
+        "ano": "1905",
+        "link": "https://www.chelseafc.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+    },
+    {
+        "nome": "Arsenal",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Arsenal Football Club é um clube de futebol profissional sediado em Islington, Londres, Inglaterra. É um dos clubes mais bem-sucedidos do futebol inglês.",
+        "ano": "1886",
+        "link": "https://www.arsenal.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
+    },
+    {
+        "nome": "Tottenham Hotspur",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Tottenham Hotspur Football Club, comumente referido como Tottenham ou Spurs, é um clube de futebol profissional inglês em Tottenham, Londres.",
+        "ano": "1882",
+        "link": "https://www.tottenhamhotspur.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png"
+    },
+    {
+        "nome": "Newcastle United",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Newcastle United Football Club é um clube de futebol profissional inglês sediado em Newcastle upon Tyne, que joga na Premier League.",
+        "ano": "1892",
+        "link": "https://www.nufc.co.uk/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png"
+    },
+    {
+        "nome": "Aston Villa",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Aston Villa Football Club é um clube de futebol profissional inglês sediado em Aston, Birmingham. É um dos membros fundadores da Football League em 1888 e da Premier League em 1992.",
+        "ano": "1874",
+        "link": "https://www.avfc.co.uk/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/aston-villa.svg"
+    },
+    {
+        "nome": "West Ham United",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O West Ham United Football Club é um clube de futebol profissional inglês sediado em Stratford, East London. Eles competem na Premier League, a primeira divisão do futebol inglês.",
+        "ano": "1895",
+        "link": "https://www.whufc.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png"
+    },
+    {
+        "nome": "Brighton & Hove Albion",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "descriçao": "O Brighton & Hove Albion Football Club, comumente referido simplesmente como Brighton, é um clube de futebol profissional inglês sediado na cidade de Brighton and Hove.",
+        "ano": "1901",
+        "link": "https://www.brightonandhovealbion.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png"
+    },
+    {
+        "nome": "AC Milan",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "A Associazione Calcio Milan, ou AC Milan, é um dos clubes mais vitoriosos da Itália e do mundo, com um histórico impressionante na Champions League.",
+        "ano": "1899",
+        "link": "https://www.acmilan.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"
+    },
+    {
+        "nome": "Juventus",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "A Juventus Football Club, sediada em Turim, é o clube com mais títulos do campeonato italiano e uma presença constante nas fases finais de competições europeias.",
+        "ano": "1897",
+        "link": "https://www.juventus.com/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/juventus-4.svg"
+    },
+    {
+        "nome": "Inter de Milão",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "O Football Club Internazionale Milano, conhecido como Inter, é um dos clubes mais bem-sucedidos da Itália, rival histórico do AC Milan.",
+        "ano": "1908",
+        "link": "https://www.inter.it/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png"
+    },
+    {
+        "nome": "Napoli",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "A Società Sportiva Calcio Napoli, comumente referida como Napoli, é um clube de futebol profissional italiano sediado em Nápoles, Campânia.",
+        "ano": "1926",
+        "link": "https://sscnapoli.it/",
+        "imagem": "https://cdn.worldvectorlogo.com/logos/napoli-1.svg"
+    },
+    {
+        "nome": "AS Roma",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "A Associazione Sportiva Roma, comumente referida como Roma, é um clube de futebol profissional italiano sediado em Roma.",
+        "ano": "1927",
+        "link": "https://www.asroma.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png"
+    },
+    {
+        "nome": "Torino",
+        "pais": "Itália",
+        "liga": "Serie A",
+        "descriçao": "O Torino Football Club, comumente referido como Torino ou simplesmente Toro, é um clube de futebol profissional italiano sediado em Turim, Piemonte.",
+        "ano": "1906",
+        "link": "https://torinofc.it/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png"
+    },
+    {
+        "nome": "Paris Saint-Germain",
+        "pais": "França",
+        "liga": "Ligue 1",
+        "descriçao": "O Paris Saint-Germain, conhecido como PSG, é o clube dominante na França e tornou-se uma força no futebol europeu com investimentos significativos.",
+        "ano": "1970",
+        "link": "https://www.psg.fr/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg"
+    },
+    {
+        "nome": "Olympique de Marseille",
+        "pais": "França",
+        "liga": "Ligue 1",
+        "descriçao": "O Olympique de Marseille, também conhecido como OM, é um clube de futebol profissional francês sediado em Marselha. É o único clube francês a ter vencido a Liga dos Campeões da UEFA.",
+        "ano": "1899",
+        "link": "https://www.om.fr/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
+    },
+    {
+        "nome": "OGC Nice",
+        "pais": "França",
+        "liga": "Ligue 1",
+        "descriçao": "O Olympique Gymnaste Club Nice Côte d'Azur, comumente referido como OGC Nice ou simplesmente Nice, é um clube de futebol profissional francês sediado em Nice.",
+        "ano": "1904",
+        "link": "https://www.ogcnice.com/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png"
+    },
+    {
+        "nome": "Lionel Messi",
+        "pais": "Argentina",
+        "liga": "Lendas do Futebol",
+        "descriçao": "Lionel Messi é um futebolista argentino amplamente considerado um dos maiores da história. Com uma habilidade incomparável e visão de jogo, marcou época no Barcelona, PSG e agora joga no Inter Miami.",
+        "ano": "1987",
+        "link": "https://www.instagram.com/leomessi/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg"
+    },
+    {
+        "nome": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "liga": "Lendas do Futebol",
+        "descriçao": "Cristiano Ronaldo, ou CR7, é um futebolista português famoso por sua capacidade atlética e faro de gol. Quebrou recordes no Manchester United, Real Madrid, Juventus e agora joga no Al-Nassr.",
+        "ano": "1985",
+        "link": "https://www.instagram.com/cristiano/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cristiano_Ronaldo_WC2022_-_01.jpg"
+    },
+    {
+        "nome": "Neymar Jr.",
+        "pais": "Brasil",
+        "liga": "Lendas do Futebol",
+        "descriçao": "Neymar Jr. é um dos futebolistas brasileiros mais famosos. Conhecido por sua habilidade e drible, encantou o mundo no Santos, Barcelona, PSG e agora joga no Al-Hilal.",
+        "ano": "1992",
+        "link": "https://www.instagram.com/neymarjr/",
+        "imagem": "https://f.i.uol.com.br/fotografia/2018/10/03/15385936835bb51393df45d_1538593683_3x2_lg.jpg"
+    }
+]
